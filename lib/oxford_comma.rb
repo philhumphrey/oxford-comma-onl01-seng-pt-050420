@@ -2,6 +2,8 @@
 # array = ["beginnings"]
 # first_array.join do |"beginnings"|
 # 
+
+
 # end
  
  def oxford_comma(array)
