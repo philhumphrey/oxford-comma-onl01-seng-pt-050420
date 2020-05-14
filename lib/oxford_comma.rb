@@ -1,5 +1,5 @@
-def oxford_comma(kiwis)
- first_array = ["beginnings"]
+def oxford_comma(array)
+ array = ["beginnings"]
  first_array.join do |"beginnings"|
    kiwis <<
  end
