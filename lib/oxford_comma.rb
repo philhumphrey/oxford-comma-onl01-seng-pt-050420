@@ -3,3 +3,5 @@ def oxford_comma(array)
  first_array.join do |"beginnings"|
    kiwis <<
  end
+ 
+ 
